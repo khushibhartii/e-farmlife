@@ -1,0 +1,87 @@
+
+.crop-manage-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .introduction, .key-tips, .resources {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    color: #f9f7f6;
+    font-size: 10px;
+
+  }
+  
+  h2 {
+    margin-top: 96px;
+    color: #17ca47;
+    font-size: 62px;
+    font-weight: bolder;
+    
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #f8f6f5;
+    font-size: 10px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    color: #f8f6f5;
+    
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  
+  a {
+    color: #00ffcc;
+    text-decoration: none;
+  }
+
+  .crop-manage-container h1{
+    font-size: 100px;
+    margin-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: -56px;
+    padding: 62px;
+    color:antiquewhite;
+    font-weight: bolder;
+  }
+
+  .crop-manage-container iframe{
+    
+    display: flex;
+    height: 350px;
+    width: 750px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .image{
+    
+    
+    background-image: url(arya.jpg);
+    height: 100%;
+    max-width: 100%;
+    margin-top: -18px;
+  }
+
+  .introduction p{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  
